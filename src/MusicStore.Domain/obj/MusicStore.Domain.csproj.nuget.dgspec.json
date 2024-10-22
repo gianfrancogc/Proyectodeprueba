@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sources\\Reto\\MusicStore\\src\\MusicStore.Domain\\MusicStore.Domain.csproj": {}
+    "D:\\Sources\\RETO2\\MusicStore\\Proyectodeprueba\\src\\MusicStore.Domain\\MusicStore.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Sources\\Reto\\MusicStore\\src\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+    "D:\\Sources\\RETO2\\MusicStore\\Proyectodeprueba\\src\\MusicStore.Domain\\MusicStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sources\\Reto\\MusicStore\\src\\MusicStore.Domain\\MusicStore.Domain.csproj",
+        "projectUniqueName": "D:\\Sources\\RETO2\\MusicStore\\Proyectodeprueba\\src\\MusicStore.Domain\\MusicStore.Domain.csproj",
         "projectName": "MusicStore.Domain",
-        "projectPath": "D:\\Sources\\Reto\\MusicStore\\src\\MusicStore.Domain\\MusicStore.Domain.csproj",
+        "projectPath": "D:\\Sources\\RETO2\\MusicStore\\Proyectodeprueba\\src\\MusicStore.Domain\\MusicStore.Domain.csproj",
         "packagesPath": "C:\\Users\\FRANCO\\.nuget\\packages\\",
-        "outputPath": "D:\\Sources\\Reto\\MusicStore\\src\\MusicStore.Domain\\obj\\",
+        "outputPath": "D:\\Sources\\RETO2\\MusicStore\\Proyectodeprueba\\src\\MusicStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

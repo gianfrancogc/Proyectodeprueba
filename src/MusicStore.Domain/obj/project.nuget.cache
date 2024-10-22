@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdFZ2H5a0wooaPV2U0TU4GCQJsaVXrlIBdjO+1k5JhFtA56MCcEhmlg7gf2pqpLIZ/6DTNxGhlVf4kAT+KYU9A==",
+  "dgSpecHash": "z/GICiatLVnyBHlQbUCo6fmC37J8orwtahyyqcY3H5iH7ITY/51p0OdV23YpttfTIPJVXWgRVMdyaRNCjg2CEg==",
   "success": true,
-  "projectFilePath": "D:\\Sources\\Reto\\MusicStore\\src\\MusicStore.Domain\\MusicStore.Domain.csproj",
+  "projectFilePath": "D:\\Sources\\RETO2\\MusicStore\\Proyectodeprueba\\src\\MusicStore.Domain\\MusicStore.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

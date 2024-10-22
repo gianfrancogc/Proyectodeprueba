@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "80qI2VvmazQ/NkAiMFba4/RxzUfxJeQYaOxRaMqetLv0EfT284tm6mPBJIgfe5HKVyMBqB64M2ij/9Vpv0b58g==",
+  "dgSpecHash": "vF6DjXz5ALum/PNdOAtuOxW0FLb5yf3TqYwjTA1tX9/2lOd7xheSU/f97Jv5m+vTBMJdP1AbMheu0dCbeUNhPQ==",
   "success": true,
-  "projectFilePath": "D:\\Sources\\Reto\\MusicStore\\src\\MusicStore.Api\\MusicStore.Api.csproj",
+  "projectFilePath": "D:\\Sources\\RETO2\\MusicStore\\Proyectodeprueba\\src\\MusicStore.Api\\MusicStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FRANCO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\FRANCO\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

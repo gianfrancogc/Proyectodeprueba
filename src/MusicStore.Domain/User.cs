@@ -11,5 +11,7 @@ namespace MusicStore.Domain
         public string NameUser { get; set; }
 
         public string PassUser { get; set; }
+
+        public String Apellidos { get; set; }
     }
 }
