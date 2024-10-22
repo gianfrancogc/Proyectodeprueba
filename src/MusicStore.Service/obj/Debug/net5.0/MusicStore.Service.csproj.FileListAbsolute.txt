@@ -1,0 +1,15 @@
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\bin\Debug\net5.0\MusicStore.Service.deps.json
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\bin\Debug\net5.0\MusicStore.Service.dll
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\bin\Debug\net5.0\MusicStore.Service.pdb
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\bin\Debug\net5.0\MusicStore.Domain.dll
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\bin\Debug\net5.0\MusicStore.Domain.pdb
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.csproj.AssemblyReference.cache
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.AssemblyInfoInputs.cache
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.AssemblyInfo.cs
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.csproj.CoreCompileInputs.cache
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.csproj.CopyComplete
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.dll
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\MusicStore.Service.pdb
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\obj\Debug\net5.0\ref\MusicStore.Service.dll
+D:\Sources\Reto\MusicStore\src\MusicStore.Service\bin\Debug\net5.0\ref\MusicStore.Service.dll

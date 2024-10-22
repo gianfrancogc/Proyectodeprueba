@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Sources\Reto\MusicStore\src\MusicStore.Api\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-05T00:30:33.1981819Z;True|2024-09-04T18:29:31.2858037-05:00;True|2024-09-04T18:26:18.4625249-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

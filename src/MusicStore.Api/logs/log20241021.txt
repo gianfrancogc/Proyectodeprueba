@@ -1,0 +1,5 @@
+2024-10-21 21:12:12.349 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-21 21:12:12.383 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:12249/clima - -
+2024-10-21 21:12:12.407 -05:00 [INF] Hosting environment: Development
+2024-10-21 21:12:12.407 -05:00 [INF] Content root path: D:\Sources\Reto\MusicStore\src\MusicStore.Api
+2024-10-21 21:12:12.450 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:12249/clima - - - 404 - - 69.6543ms
